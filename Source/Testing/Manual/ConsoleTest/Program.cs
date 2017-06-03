@@ -59,28 +59,29 @@ namespace ConsoleTest
 
       Console.WriteLine("done");
       Console.ReadKey();
+      Console.ReadKey();
 
-        //Console.WriteLine("Server starting with arguments: " + string.Join(" ", args));
+      //Console.WriteLine("Server starting with arguments: " + string.Join(" ", args));
 
-        //using(new ServiceBaseApplication(args, null))
-        //{
-        //      //Throttling.Run();
-        //      //   Console.WriteLine("test string".ToGUID());
-        //      //Markup.Run();
-        //      //Config.Run();
-        //      //ConsoleLog.Run();
-        //      //CSTemplate.Run();
+      //using(new ServiceBaseApplication(args, null))
+      //{
+      //      //Throttling.Run();
+      //      //   Console.WriteLine("test string".ToGUID());
+      //      //Markup.Run();
+      //      //Config.Run();
+      //      //ConsoleLog.Run();
+      //      //CSTemplate.Run();
 
-        //     // ServiceBaseApplication.WriteToLog("Fame-mouse Japanese singer Atomuli Ya Dala");
+      //     // ServiceBaseApplication.WriteToLog("Fame-mouse Japanese singer Atomuli Ya Dala");
 
 
 
-        //      GlueServer.Run();
+      //      GlueServer.Run();
 
-        //      Console.WriteLine("Bitte shtreken sie ein knopken <ENTER>");
-        //      Console.ReadLine();
+      //      Console.WriteLine("Bitte shtreken sie ein knopken <ENTER>");
+      //      Console.ReadLine();
 
-        //}
+      //}
     }
 
 

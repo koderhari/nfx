@@ -59,9 +59,7 @@ namespace ConsoleTest
 
       Console.WriteLine("done");
       Console.ReadKey();
-      Console.ReadKey();
-      Console.ReadKey();
-      //Console.WriteLine("Server starting with arguments: " + string.Join(" ", args));
+         //Console.WriteLine("Server starting with arguments: " + string.Join(" ", args));
 
       //using(new ServiceBaseApplication(args, null))
       //{

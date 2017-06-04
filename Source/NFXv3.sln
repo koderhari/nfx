@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{798DFAAA-898A-4560-A437-B806DEF82EF6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4EB8FF93-4874-49FB-8C5E-103E7DF0CB85}"
@@ -101,6 +103,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arow", "Tools\arow\arow.csproj", "{0E12BF2B-28DF-4D86-AE20-68AAC17D5BCD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFX.Azure", "Providers\NFX.Azure\NFX.Azure.csproj", "{710551E5-D4B2-486C-99C8-CDBC3A610DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTree", "TestTree\TestTree.csproj", "{91B1BF6C-B5F0-44B2-A11B-A9DDCE18794E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -220,6 +224,10 @@ Global
 		{710551E5-D4B2-486C-99C8-CDBC3A610DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{710551E5-D4B2-486C-99C8-CDBC3A610DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{710551E5-D4B2-486C-99C8-CDBC3A610DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B1BF6C-B5F0-44B2-A11B-A9DDCE18794E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B1BF6C-B5F0-44B2-A11B-A9DDCE18794E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B1BF6C-B5F0-44B2-A11B-A9DDCE18794E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B1BF6C-B5F0-44B2-A11B-A9DDCE18794E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -251,6 +259,7 @@ Global
 		{BE7C8F73-99EF-4294-82BF-234409CB093F} = {798DFAAA-898A-4560-A437-B806DEF82EF6}
 		{0E12BF2B-28DF-4D86-AE20-68AAC17D5BCD} = {798DFAAA-898A-4560-A437-B806DEF82EF6}
 		{710551E5-D4B2-486C-99C8-CDBC3A610DFE} = {36DFA4B7-6AE7-4AC8-8E71-0AE81ACD8BAF}
+		{91B1BF6C-B5F0-44B2-A11B-A9DDCE18794E} = {1D6946A6-ABC2-42FA-A951-6F79171A6947}
 	EndGlobalSection
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True

@@ -99,6 +99,7 @@
     <Compile Include="ApplicationModel\Pile\LocalCacheTable.cs" />
     <Compile Include="ApplicationModel\Pile\PilePointer.cs" />
     <Compile Include="ApplicationModel\Pile\TableOptions.cs" />
+    <Compile Include="ApplicationModel\Pile\Tree.cs" />
     <Compile Include="ApplicationModel\ServiceBaseApplication.cs" />
     <Compile Include="ApplicationModel\IApplication.cs" />
     <Compile Include="ApplicationModel\ISession.cs" />
